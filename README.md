@@ -34,8 +34,10 @@
 ![Docker](https://img.shields.io/badge/docker-392560.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-392560.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![ApacheKafka](https://img.shields.io/badge/Apache_Kafka-392560?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
 ### Ask me 💬
-You can contact me vi
+You can contact me via
+
 
 <!--
 **sahadat-i/sahadat-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
