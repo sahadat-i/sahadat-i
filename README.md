@@ -1,6 +1,4 @@
-### Hi there 👋
 
-### Skill
 # 🚀 Skills
 
 ![HTML5](https://img.shields.io/badge/html5-392560.svg?style=for-the-badge&logo=html5&logoColor=white)
