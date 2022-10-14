@@ -23,7 +23,6 @@
 
 
 ![Git](https://img.shields.io/badge/git-392560.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-392560.svg?style=for-the-badge&logo=docker&logoColor=white
 
 ### Ask me 💬
 You can contact me via
