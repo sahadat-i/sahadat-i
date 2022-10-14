@@ -21,13 +21,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-392560.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-392560.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Jest](https://img.shields.io/badge/-jest-392560?style=for-the-badge&logo=jest&logoColor=white)
-![Mocha](https://img.shields.io/badge/-mocha-392560?style=for-the-badge&logo=mocha&logoColor=white)
-![WebdriverIO](https://img.shields.io/badge/Webdriver.IO-392560.svg?style=for-the-badge&logo=webdriverio&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-392560.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-392560.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-392560.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-392560.svg?style=for-the-badge&logo=docker&logoColor=white
 
 ### Ask me 💬
 You can contact me via
