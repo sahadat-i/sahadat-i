@@ -24,7 +24,7 @@
 ![Git](https://img.shields.io/badge/git-392560.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Ask me 💬
-You can contact me via
+You can contact me via Wa 085802269603
 
 
 <!--
